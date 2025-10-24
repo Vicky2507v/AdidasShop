@@ -1,8 +1,8 @@
 export const Reviews = () => {
   const reviews = [
-    { name: "John Doe", avatar: "src/assets/Images/r1.jpg", rating: 5, comment: "Amazing products!" },
-    { name: "Jane Smith", avatar: "src/assets/Images/r2.jpg", rating: 4, comment: "Loved the shoes." },
-    { name: "Mark Wilson", avatar: "src/assets/Images/r3.jpg", rating: 5, comment: "Great quality and delivery." },
+    { name: "John Doe", avatar: "Images/r1.jpg", rating: 5, comment: "Amazing products!" },
+    { name: "Jane Smith", avatar: "Images/r2.jpg", rating: 4, comment: "Loved the shoes." },
+    { name: "Mark Wilson", avatar: "Images/r3.jpg", rating: 5, comment: "Great quality and delivery." },
   ];
 
   return (

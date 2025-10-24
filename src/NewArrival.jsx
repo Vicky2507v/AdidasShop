@@ -22,12 +22,12 @@ export const NewArrival = () => {
   };
 
   const arrivals = [
-    "src/assets/Images/new1.png",
-    "src/assets/Images/new2.png",
-    "src/assets/Images/new3.png",
-    "src/assets/Images/new4.png",
-    "src/assets/Images/new5.png",
-    "src/assets/Images/new6.png"
+    "Images/new1.png",
+    "Images/new2.png",
+    "Images/new3.png",
+    "Images/new4.png",
+    "Images/new5.png",
+    "Images/new6.png"
   ];
 
   return (

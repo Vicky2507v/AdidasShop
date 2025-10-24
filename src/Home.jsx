@@ -15,7 +15,7 @@ export const Home = () => {
             </div>
 
             <div className="hero-img-wrapper">
-                <img src="src/assets/Images/home.png" alt="Adidas Hero" className="hero-img" />
+                <img src="Images/home.png" alt="Adidas Hero" className="hero-img" />
             </div>
         </section>
     )
