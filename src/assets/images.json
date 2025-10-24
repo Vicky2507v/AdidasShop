@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "title": "american-express",
+        "url": "/assets/Images/american-express.png"
+    },
+    {
+        "id": 2,
+        "title": "home",
+        "url": "/assets/Images/home.png"
+    },
+    {
+        "id": 3,
+        "title": "mastercard",
+        "url": "/assets/Images/mastercard.png"
+    },
+    {
+        "id": 4,
+        "title": "new1",
+        "url": "/assets/Images/new1.png",
+        "price" : "870 /-"
+    },
+    {
+        "id": 5,
+        "title": "new2",
+        "url": "/assets/Images/new2.png",
+        "price" : "660 /-"
+    },
+    {
+        "id": 6,
+        "title": "new3",
+        "url": "/assets/Images/new3.png",
+        "price" : "780 /-"
+    },
+    {
+        "id": 7,
+        "title": "new4",
+        "url": "/assets/Images/new4.png",
+        "price" : "500 /-"
+    },
+    {
+        "id": 8,
+        "title": "new5",
+        "url": "/assets/Images/new5.png",
+        "price" : "780 /-"
+    },
+    {
+        "id": 9,
+        "title": "new6",
+        "url": "/assets/Images/new6.png",
+        "price" : "670/-"
+    },
+    {
+        "id": 10,
+        "title": "p1",
+        "url": "/assets/Images/american-express.png"
+    },
+    {
+        "id": 11,
+        "title": "p2",
+        "url": "/assets/Images/p2.png"
+    },
+    {
+        "id": 12,
+        "title": "p3",
+        "url": "/assets/Images/p3.png"
+    },
+    {
+        "id": 13,
+        "title": "p4",
+        "url": "/assets/Images/p4.png"
+    },
+    {
+        "id": 14,
+        "title": "p5",
+        "url": "/assets/Images/p5.png"
+    },
+    {
+        "id": 15,
+        "title": "p6",
+        "url": "/assets/Images/p6.png"
+    },
+    {
+        "id": 16,
+        "title": "p7",
+        "url": "/assets/Images/p7.png"
+    },
+    {
+        "id": 17,
+        "title": "p8",
+        "url": "/assets/Images/p8.png"
+    },
+    {
+        "id": 18,
+        "title": "paypal",
+        "url": "/assets/Images/paypal.png"
+    },
+    {
+        "id": 19,
+        "title": "r1",
+        "url": "/assets/Images/r1.png"
+    },
+    {
+        "id": 20,
+        "title": "r2",
+        "url": "/assets/Images/r2.png"
+    },
+    {
+        "id": 21,
+        "title": "r3",
+        "url": "/assets/Images/r3.png"
+    },
+    {
+        "id": 22,
+        "title": "visa",
+        "url": "/assets/Images/visa.png"
+    }
+]
